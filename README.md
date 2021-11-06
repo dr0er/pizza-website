@@ -1,4 +1,4 @@
-## Link to live hosting 
+## Link to live hosting https://dropizza.vercel.app/
 
 ## 👨‍💻 `Run: npm i & npm start`
 
